@@ -4,7 +4,7 @@
 ## Installation :
 ```bash
 # clone the repo
-$ git clone https://github.com/doophack/Alone.git
+$ git clone https://github.com/r2dr0dn/Alone.git
 # install the requirements
 $ pip3 install -r requirements.txt
 ```
@@ -17,11 +17,5 @@ python3 alone.py video url resolution hd
 python3 alone.py video url resolution sd
 ```
 
-<p align="center">
-<a href="https://asciinema.org/a/237741">
-<img src="https://asciinema.org/a/237741.svg">
-</a>
-</p>
-
 # Author 
-## Benelhaj_younes
+## r2dr0dn
